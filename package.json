@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyleeThomas/noteTaker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/RyleeThomas/noteTaker/issues"
+  },
+  "homepage": "https://github.com/RyleeThomas/noteTaker#readme"
 }
