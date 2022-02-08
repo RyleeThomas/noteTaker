@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "uniqid": "^5.4.0",
+    "uniquid": "^1.1.4"
   },
   "repository": {
     "type": "git",
