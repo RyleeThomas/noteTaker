@@ -31,6 +31,4 @@ router.post('/notes', (req, res) => {
     }
 })
 
-//destroy
-
 module.exports = router;
